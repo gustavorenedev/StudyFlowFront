@@ -34,7 +34,7 @@ export default function NavBar() {
         </Button>
       </div>
 
-      <Button variant="light" className="font-bold text-2xl">
+      <Button variant="light" className="font-bold" style={{ fontSize: 22 }}>
         <LogOut size={18} /> Log out
       </Button>
     </nav>
