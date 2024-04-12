@@ -3,9 +3,9 @@ import { TeachersBox } from "./TeachersBox";
 export default function Teachers() {
   return (
     <div className="bg-slate-900 rounded-lg">
-      <div className="flex p-8 gap-16 justify-center">
+      <div className="flex p-8 gap-6">
         <div className="flex flex-col gap-5">
-          <h2>Segunda-Feira</h2>
+          <h2 >Segunda-Feira</h2>
           <TeachersBox materia="Java Advanced" nome="João Carlos Lima" />
           <TeachersBox
             materia="Mobile Application"
