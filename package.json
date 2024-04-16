@@ -9,13 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.15",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "@mui/x-charts": "^7.2.0",
+    "@mui/x-date-pickers": "^7.2.0",
     "@nextui-org/react": "^2.2.10",
+    "dayjs": "^1.11.10",
     "framer-motion": "^11.0.25",
     "lucide-react": "^0.366.0",
     "next": "14.1.4",
     "node": "^18.20.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@types/node": "^20",
